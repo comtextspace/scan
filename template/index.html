@@ -1,12 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  Test site
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
+    <!-- Bootstrap 5 -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.0/css/bootstrap.min.css"
+    />
+
+    <!-- DataTables -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap5.min.css"
+    />
+    <script
+      type="text/javascript"
+      charset="utf8"
+      src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"
+    ></script>
+    <script
+      type="text/javascript"
+      charset="utf8"
+      src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap5.min.js"
+    ></script>
+
+    <title>Каталог сканов</title>
+  </head>
+  <body>
+    <h1 class="text-center mb-2">Каталог сканов</h1>
+
+    <script>
+      $(document).ready(function () {
+        $("#example").DataTable({
+          ajax: "./scans.json",
+        });
+      });
+    </script>
+
+    <table id="example" class="table table-striped" style="width: 100%">
+      <thead>
+        <tr>
+          <th>Название</th>
+          <th>Направление</th>
+          <th>Язык материалов</th>
+          <th>Количество материалов</th>
+          <th>Платформа</th>
+        </tr>
+      </thead>
+      <tfoot>
+        <tr>
+          <th>Название</th>
+          <th>Направление</th>
+          <th>Язык материалов</th>
+          <th>Количество материалов</th>
+          <th>Платформа</th>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
 </html>
