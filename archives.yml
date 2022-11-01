@@ -1,11 +1,80 @@
 - title: Электронная библиотека исторических документов Российского исторического общества
+  link: http://docs.historyrussia.org
   category: Исторические документы
+  type: Документы
   lang: RU
-  item_amount: 1000
+  item_amount: 300000
   platform: ИнфоРост
+  platform_link: http://inforost.org
 
 - title: Электронная библиотека Государственной публичной исторической библиотеки
-  category: Исторические документы
+  link: http://elib.shpl.ru
+  category: Всё
+  type: Книги, журналы, газеты, листовки
+  lang: RU
+  item_amount: 40000
+  platform: ИнфоРост
+  platform_link: http://inforost.org
+
+- title: Электронная библиотека Театральной библиотеки (СПб)
+  link: http://lib.sptl.spb.ru
+  category: Театр
+  type: Книги, журналы, газеты, рукописи
   lang: RU
   item_amount: 1000
   platform: ИнфоРост
+  platform_link: http://inforost.org
+
+- title: Электронные Архивы всемирно известных ученых-дефектологов
+  link: http://zagorsk.dlibrary.org
+  category: Документы
+  type: Специальный
+  lang: RU
+  item_amount: 1000
+  platform: ИнфоРост
+  platform_link: http://inforost.org
+
+- title: Электронный архив Государственной публичной научно-технической библиотеки
+  link: http://gpntb.dlibrary.org
+  category: Техническая литература
+  type: Книги
+  lang: RU
+  item_amount: 2000-10000
+  platform: ИнфоРост
+  platform_link: http://inforost.org
+
+- title: Российско-германский проект по оцифровке германских документов в архивах Российской Федерации
+  link: https://www.germandocsinrussia.org
+  category: Документы, карты
+  type: Специальный
+  lang: DE
+  item_amount: 1000
+  platform: ИнфоРост
+  platform_link: http://inforost.org
+
+- title: Полный электронный комплект журнала Мурзилка
+  link: http://murzilka.dlibrary.org
+  category: Специальный
+  type: Журналы
+  lang: RU
+  item_amount: 1000
+  platform: ИнфоРост
+  platform_link: http://inforost.org
+
+- title: Полная электронная коллекция Летописей Российской книжной палаты
+  link: http://letopisi.dlibrary.org
+  category: Специальный
+  type: Журналы
+  lang: RU
+  item_amount: 100
+  platform: ИнфоРост
+  platform_link: http://inforost.org
+
+- title: Электронная библиотека Дома русского зарубежья им. Александра Солженицына
+  link: http://biblioteka.domrz.ru
+  category: Русская эмиграция XX века
+  type: Книги, газеты, журналы, автографы
+  lang: RU
+  item_amount: 1000-5000
+  platform: ИнфоРост
+  platform_link: http://inforost.org

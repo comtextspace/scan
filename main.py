@@ -16,7 +16,23 @@ scans_json = {
 }
 
 for item in archives:
-    scans_json['data'].append(list(item.values()))
+    title = item['title']
+    link = item['link']
+    category = item['category']
+    type = item['type']
+    lang = item['lang']
+    item_amount = item['item_amount']
+    platform = item['platform']
+    platform_link = item['platform_link']
+
+    scans_json['data'].append([
+        f'<a href="{link}">{title}</a>',
+        category,
+        type,
+        lang,
+        item_amount,
+        f'<a href="{platform_link}">{platform}</a>' if platform_link else platform,
+    ])
 
 file = open(DEST_FILENAME, 'w', encoding='utf-8')
 file.write(json.dumps(scans_json, indent=4, ensure_ascii=False))
