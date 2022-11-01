@@ -1,21 +1,27 @@
-image: python:3.7
+name: deploy
 
-stages:
-  - build
-  - deploy
+on:
+  # trigger deployment on every push to main branch
+  push:
+    branches: [main]
+  # trigger deployment manually
+  workflow_dispatch:
 
-before_script:
-  - pip install poetry
-  - poetry config virtualenvs.create false
-  - poetry install
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+      - name: Run image
+        uses: abatilo/actions-poetry@v2
+        with:
+          poetry-version: 1.1.15
+      - name: Build
+        run: poetry run python main.py
 
-Static Type check:
-  stage: types
-  script:
-    - poetry run python main.py
-
-Deploy to GitHub Pages:
-  stage: deploy
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
       - name: Deploy to GitHub Pages
@@ -28,4 +34,3 @@ Deploy to GitHub Pages:
         env:
           # @see https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
