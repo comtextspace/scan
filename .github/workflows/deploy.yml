@@ -20,6 +20,7 @@ jobs:
         with:
           poetry-version: "1.1.15"
       - name: Build
+        run: poetry install
         run: poetry run python main.py
 
       # please check out the docs of the workflow for more details
