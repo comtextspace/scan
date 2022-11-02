@@ -5,7 +5,7 @@
   lang: RU
   item_amount: 300000
   platform: ИнфоРост
-  platform_link: http://inforost.org
+  platform_link: https://way23.ru/textreview-inforost.html
 
 - title: Электронная библиотека Государственной публичной исторической библиотеки
   link: http://elib.shpl.ru
@@ -14,7 +14,7 @@
   lang: RU
   item_amount: 40000
   platform: ИнфоРост
-  platform_link: http://inforost.org
+  platform_link: https://way23.ru/textreview-inforost.html
 
 - title: Электронная библиотека Театральной библиотеки (СПб)
   link: http://lib.sptl.spb.ru
@@ -23,7 +23,7 @@
   lang: RU
   item_amount: 1000
   platform: ИнфоРост
-  platform_link: http://inforost.org
+  platform_link: https://way23.ru/textreview-inforost.html
 
 - title: Электронные Архивы всемирно известных ученых-дефектологов
   link: http://zagorsk.dlibrary.org
@@ -32,7 +32,7 @@
   lang: RU
   item_amount: 1000
   platform: ИнфоРост
-  platform_link: http://inforost.org
+  platform_link: https://way23.ru/textreview-inforost.html
 
 - title: Электронный архив Государственной публичной научно-технической библиотеки
   link: http://gpntb.dlibrary.org
@@ -41,7 +41,7 @@
   lang: RU
   item_amount: 2000-10000
   platform: ИнфоРост
-  platform_link: http://inforost.org
+  platform_link: https://way23.ru/textreview-inforost.html
 
 - title: Российско-германский проект по оцифровке германских документов в архивах Российской Федерации
   link: https://www.germandocsinrussia.org
@@ -50,7 +50,7 @@
   lang: DE
   item_amount: 1000
   platform: ИнфоРост
-  platform_link: http://inforost.org
+  platform_link: https://way23.ru/textreview-inforost.html
 
 - title: Полный электронный комплект журнала Мурзилка
   link: http://murzilka.dlibrary.org
@@ -59,7 +59,7 @@
   lang: RU
   item_amount: 1000
   platform: ИнфоРост
-  platform_link: http://inforost.org
+  platform_link: https://way23.ru/textreview-inforost.html
 
 - title: Полная электронная коллекция Летописей Российской книжной палаты
   link: http://letopisi.dlibrary.org
@@ -68,7 +68,7 @@
   lang: RU
   item_amount: 100
   platform: ИнфоРост
-  platform_link: http://inforost.org
+  platform_link: https://way23.ru/textreview-inforost.html
 
 - title: Электронная библиотека Дома русского зарубежья им. Александра Солженицына
   link: http://biblioteka.domrz.ru
@@ -77,4 +77,40 @@
   lang: RU
   item_amount: 1000-5000
   platform: ИнфоРост
-  platform_link: http://inforost.org
+  platform_link: https://way23.ru/textreview-inforost.html
+
+- title: Национальная электронная библиотека (НЭБ)
+  link: https://rusneb.ru
+  category: Всё
+  type: Книги, журналы
+  lang: RU
+  item_amount: 5500000
+  platform: Своя
+  platform_link:
+
+- title: Электронная библиотека Республики Карелия
+  link: https://elibrary.petrsu.ru
+  category: Всё
+  type: Книги, журналы
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Российская государственная библиотек
+  link: http://elibrary.rsl.ru
+  category: Всё
+  type: Книги, журналы
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Библиотека редких книг на сайте biografia.ru
+  link: http://biografia.ru
+  category: Всё
+  type: Книги
+  lang: RU
+  item_amount: 100
+  platform: Отсуствует
+  platform_link:
