@@ -156,7 +156,7 @@
   category: Журналы СССР
   type: Журналы
   lang: RU
-  item_amount: ?
+  item_amount: "?"
   platform: Отсутствует
   platform_link:
 
@@ -165,7 +165,7 @@
   category: Журналы
   type: Журналы
   lang: RU
-  item_amount: ?
+  item_amount: "?"
   platform: Отсутствует
   platform_link:
 
@@ -183,7 +183,7 @@
   category: Карты генштаба
   type: Карты
   lang: RU
-  item_amount: ?
+  item_amount: "?"
   platform: Своя
   platform_link:
   
@@ -192,7 +192,7 @@
   category: Старые карты
   type: Карты
   lang: RU
-  item_amount: ?
+  item_amount: "?"
   platform: Своя
   platform_link:
   
@@ -201,7 +201,7 @@
   category: Журнал Семья и школа
   type: Журналы
   lang: RU
-  item_amount: ?
+  item_amount: "?"
   platform: Яндекс-диск
   platform_link:
 
@@ -210,7 +210,7 @@
   category: Связанное с сибирью
   type: Книги, журналы
   lang: RU
-  item_amount: ?
+  item_amount: "?"
   platform: DSpace
   platform_link:
 
@@ -228,7 +228,7 @@
   category: Всё
   type: Книги, журналы
   lang: RU
-  item_amount: ? 
+  item_amount: "?" 
   platform: Отсуствует
   platform_link:
 
@@ -237,7 +237,7 @@
   category: Всё
   type: Газеты, журналы
   lang: RU
-  item_amount: ? 
+  item_amount: "?"
   platform: Своя?
   platform_link:
 
