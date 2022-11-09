@@ -114,3 +114,132 @@
   item_amount: 100
   platform: Отсуствует
   platform_link:
+
+- title: Сайт barius.ru
+  link: http://www.barius.ru/biblioteka/
+  category: Детская литература
+  type: Книги и журналы
+  lang: RU
+  item_amount: 1000
+  platform: Своя?
+  platform_link:
+
+- title: Архив журнала Юный техник
+  link: http://opoccuu.com/Yunyy-tehnik.htm
+  category: Журнал Юный техник
+  type: Журналы
+  lang: RU
+  item_amount: 100
+  platform: Отсутствует
+  platform_link:
+
+- title: Архив журнала За рулем
+  link: https://www.zr.ru/archive/zr/
+  category: Журнал За рулем
+  type: Журналы
+  lang: RU
+  item_amount: 100
+  platform: Отсутствует
+  platform_link:
+
+- title: Архив журнала Моделист конструктор
+  link: http://www.mk-archive.narod.ru/mk-year.htm
+  category: Журнал Моделист-конструктор
+  type: Журналы
+  lang: RU
+  item_amount: 375
+  platform: Отсутствует
+  platform_link:
+
+- title: Журналы СССР
+  link: https://sites.google.com/site/zurnalysssr/
+  category: Журналы СССР
+  type: Журналы
+  lang: RU
+  item_amount: ?
+  platform: Отсутствует
+  platform_link:
+
+- title: Сайт journal-club.ru
+  link: http://journal-club.ru
+  category: Журналы
+  type: Журналы
+  lang: RU
+  item_amount: ?
+  platform: Отсутствует
+  platform_link:
+
+- title: Старые газеты
+  link: https://www.oldgazette.org
+  category: Газеты
+  type: Газеты
+  lang: RU
+  item_amount: 5000
+  platform: Отсутствует
+  platform_link:
+
+- title: Карты генштаба
+  link: https://satmaps.info/genshtab.php
+  category: Карты генштаба
+  type: Карты
+  lang: RU
+  item_amount: ?
+  platform: Своя
+  platform_link:
+  
+- title: Старые карты
+  link: http://retromap.ru
+  category: Старые карты
+  type: Карты
+  lang: RU
+  item_amount: ?
+  platform: Своя
+  platform_link:
+  
+- title: Архив журнала Семья и школа 1946-2002
+  link: https://disk.yandex.ru/d/PhzsG_3mZ-SI8Q
+  category: Журнал Семья и школа
+  type: Журналы
+  lang: RU
+  item_amount: ?
+  platform: Яндекс-диск
+  platform_link:
+
+- title: Библиотека Электронная Сибирь
+  link: http://elib.ngonb.ru/jspui/community-list
+  category: Связанное с сибирью
+  type: Книги, журналы
+  lang: RU
+  item_amount: ?
+  platform: DSpace
+  platform_link:
+
+- title: «ImWerden», электронная библиотека Андрея Никитина-Перенского 
+  link: https://imwerden.de/razdel-11-str-1.html
+  category: Всё
+  type: Книги, журналы
+  lang: RU
+  item_amount: 12908 
+  platform: Отсуствует
+  platform_link:
+
+- title: Иркутская областная государственная универсальная научная библиотека им. И. И, Молчанова-Сибирского
+  link: https://i.irklib.ru/web/
+  category: Всё
+  type: Книги, журналы
+  lang: RU
+  item_amount: ? 
+  platform: Отсуствует
+  platform_link:
+
+- title: librarium, Либрариум — это архив эмигрантской прессы
+  link: https://librarium.fr/ru/magazines
+  category: Всё
+  type: Газеты, журналы
+  lang: RU
+  item_amount: ? 
+  platform: Своя?
+  platform_link:
+
+
+
