@@ -3,3 +3,6 @@ build:
 
 clear:
 	del .\template\scans.json
+
+check:
+	poetry run python check.py
