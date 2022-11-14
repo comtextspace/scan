@@ -186,7 +186,7 @@
   item_amount: "?"
   platform: Своя
   platform_link:
-  
+
 - title: Старые карты
   link: http://retromap.ru
   category: Старые карты
@@ -195,7 +195,7 @@
   item_amount: "?"
   platform: Своя
   platform_link:
-  
+
 - title: Архив журнала Семья и школа 1946-2002
   link: https://disk.yandex.ru/d/PhzsG_3mZ-SI8Q
   category: Журнал Семья и школа
@@ -214,12 +214,12 @@
   platform: DSpace
   platform_link:
 
-- title: «ImWerden», электронная библиотека Андрея Никитина-Перенского 
+- title: «ImWerden», электронная библиотека Андрея Никитина-Перенского
   link: https://imwerden.de/razdel-11-str-1.html
   category: Всё
   type: Книги, журналы
   lang: RU
-  item_amount: 12908 
+  item_amount: 12908
   platform: Отсуствует
   platform_link:
 
@@ -228,7 +228,7 @@
   category: Всё
   type: Книги, журналы
   lang: RU
-  item_amount: "?" 
+  item_amount: "?"
   platform: Отсуствует
   platform_link:
 
@@ -241,5 +241,101 @@
   platform: Своя?
   platform_link:
 
+- title: Austrian Newspapers Online
+  link: https://anno.onb.ac.at
+  category: Австрийские газеты (более 100 наименований)
+  type: Газеты
+  lang: DE
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
 
+- title: Historische Zeitungen online (Staatsbibliothek zu Berlin)
+  link: https://zefys.staatsbibliothek-berlin.de
+  category: Раритетные немецкие газеты (более 70 наименований)
+  type: Газеты
+  lang: DE
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
 
+- title: Jüdische Periodika
+  link: https://sammlungen.ub.uni-frankfurt.de/cm/nav/index/title/
+  category: Еврейские газеты Германии и Австрии(более 100 наименований)
+  type: Газеты
+  lang: DE, RU
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
+
+- title: digiPress
+  link: https://digipress-beta.digitale-sammlungen.de/de/fs1/papers-overview/static.html
+  category: Редкие немецкие газеты (коллекция баварской госуд. библиотеки)
+  type: Газеты
+  lang: DE
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
+
+- title: Historic Australian Newspapers
+  link: https://trove.nla.gov.au/newspaper/
+  category: Австралийские газеты (около 40 наименований)
+  type: Газеты
+  lang: EN
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
+
+- title: Paperspast
+  link: https://paperspast.natlib.govt.nz
+  category: Новозеландские газеты (более 50 наименований)
+  type: Газеты
+  lang: EN
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
+
+- title: "Chronicling America: Historic American Newspapers"
+  link: https://chroniclingamerica.loc.gov
+  category: Американские газеты (около 200 наименований)
+  type: Газеты
+  lang: EN
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
+
+- title: Palestine Post
+  link: https://www.nli.org.il/en/newspapers/titles
+  category: Иерусалимская газета
+  type: Газеты
+  lang: EN
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
+
+- title: Paperspast
+  link: https://paperspast.natlib.govt.nz
+  category: Новозеландские газеты (более 50 наименований)
+  type: Газеты
+  lang: EN
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
+
+- title: Tímarit.is
+  link: https://timarit.is/titles
+  category: Исландские, фарерские и гренландские газеты
+  type: Газеты
+  lang: "?"
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
+
+- title: Свобода
+  link: https://svoboda-news.com/svwp/pdfархів/
+  category: Американская украинская газета
+  type: Газеты
+  lang: UA
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
