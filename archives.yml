@@ -339,3 +339,21 @@
   item_amount: "?"
   platform: Своя?
   platform_link:
+
+- title: Наука в СССР в годы Великой Отечественной Войны
+  link: https://nauka1941-1945.ru
+  category: Естественные науки
+  type: Книги
+  lang: RU
+  item_amount: "?"
+  platform: Отсуствует
+  platform_link:
+
+- title: Электронная библиотека "Научное наследие России"
+  link: http://www.e-heritage.ru
+  category: Естественные науки
+  type: Книги, фотографии
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
