@@ -357,3 +357,84 @@
   item_amount: "?"
   platform: Своя
   platform_link:
+
+- title: Книга Беларуси ХIV - XVIII веков
+  link: https://belbook.nlb.by
+  category: Старые книги
+  type: Книги
+  lang: BE
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Собрание рукописей и старопечатных кни
+  link: https://lib-fond.ru
+  category:
+  type: Книги, рукописи
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Российский государственный архив древних актов (РГАДА)
+  link: http://rgada.info/kueh/index.php?T1=&Sk=30&B1=Найти
+  category:
+  type: Книги
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Государственный исторический музей (ГИМ)
+  link: https://catalog.shm.ru/entity/OBJECT
+  category:
+  type: Книги
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Электронные публикации Института русской литературы (Пушкинского Дома) РАН
+  link: http://lib.pushkinskijdom.ru
+  category:
+  type: Книги, газеты
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Полное собрание русских летописей
+  link: http://psrl.csu.ru
+  category:
+  type: Книги, рукописи
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Bibliophika
+  link: http://bibliophika.ru
+  category:
+  type: Книги
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Пермский книгоед
+  link: https://perm-book.ru
+  category:
+  type: Книги
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Онлайн библиотека Царское село
+  link: http://book-olds.ru
+  category:
+  type: Книги
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
