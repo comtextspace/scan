@@ -313,15 +313,6 @@
   platform: Своя?
   platform_link:
 
-- title: Paperspast
-  link: https://paperspast.natlib.govt.nz
-  category: Новозеландские газеты (более 50 наименований)
-  type: Газеты
-  lang: EN
-  item_amount: "?"
-  platform: Своя?
-  platform_link:
-
 - title: Tímarit.is
   link: https://timarit.is/titles
   category: Исландские, фарерские и гренландские газеты
