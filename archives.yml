@@ -438,3 +438,102 @@
   item_amount: "?"
   platform: Своя
   platform_link:
+
+- title: OCR форум (publ.lib.ru)
+  link: http://publ.lib.ru/cgi/forum/YaBB.pl
+  category: Всё
+  type:
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Электронная библиотека «История Росатома»
+  link: http://elib.biblioatom.ru
+  category: История ядерной индустрии
+  type: Книги
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Блог «Knowledge is power»
+  link: https://znanie-vlast.livejournal.com
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Livejournal
+  platform_link:
+
+- title: Советские книги
+  link: https://soviet-books.livejournal.com
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Livejournal
+  platform_link:
+
+- title: Старая техническая литература
+  link: https://retrolib.pdp-11.ru
+  category: Техническая литератуа
+  type: Книги
+  lang: RU
+  item_amount: "?"
+  platform: Отсуствует
+  platform_link:
+
+- title: Farposst
+  link: http://farposst.ru/index.php
+  category: Военная тематика
+  type: Книги, журналы
+  lang: EN
+  item_amount: "?"
+  platform: Отсутствует
+  platform_link:
+
+- title: Электронная краеведческая библиотека Русский север
+  link: https://ekb.aonb.ru
+  category: Тематическая
+  type: Книги, газеты, журналы, карты
+  lang: RU
+  item_amount: "?"
+  platform: Своя?
+  platform_link:
+
+- title: Президентская библиотека имени Б. Н. Ельцина
+  link: https://www.prlib.ru
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Своя
+  platform_link:
+
+- title: Книжный трекер
+  link: https://booktracker.org
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Torrent-трекер
+  platform_link:
+
+- title: Раздел Книги и журналы на rutracker.org
+  link: https://rutracker.org/forum/index.php?c=25
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Torrent-трекер
+  platform_link:
+
+- title: Library of congress
+  link: https://www.loc.gov
+  category:
+  type: Всё
+  lang: EN
+  item_amount: "?"
+  platform: Своя
+  platform_link:
