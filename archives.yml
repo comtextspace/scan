@@ -97,7 +97,7 @@
   platform: Своя
   platform_link:
 
-- title: Российская государственная библиотек
+- title: Российская государственная библиотека
   link: http://elibrary.rsl.ru
   category: Всё
   type: Книги, журналы
@@ -527,4 +527,193 @@
   lang: EN
   item_amount: "?"
   platform: Своя
+  platform_link:
+
+- title: Раздел eBookz на форуме orum.ru-board.com
+  link: http://forum.ru-board.com/forum.cgi?forum=93
+  category:
+  type: Всё
+  lang: RU, EN
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: EUROPEANA. Европейская цифровая библиотека
+  link: https://www.europeana.eu/en
+  category:
+  type: Всё
+  lang: EN, другие
+  item_amount: "?"
+  platform: "?"
+  platform_link:
+
+- title: Электронная библиотека Российской национальной библиотеки (РНБ)
+  link: https://nlr.ru/elibrary
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: "?"
+  platform_link:
+
+- title: Электронная библиотека ГПНТБ России
+  link: http://ellib.gpntb.ru
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Национальная электронная детская библиотека
+  link: https://arch.rgdb.ru/xmlui/
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Электронная библиотека «Наука права»
+  link: http://naukaprava.ru
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Классика Российского права
+  link: http://civil.consultant.ru
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Портал психологических изданий PsyJournals.ru
+  link: https://psyjournals.ru
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Socioline.ru
+  link: https://socioline.ru
+  category: Литература по социологии
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Педагогическая библиотека
+  link: https://pedlib.ru
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Руниверс. Россия в подлиннике
+  link: https://runivers.ru
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Учебная физико-математическая библиотека
+  link: http://eqworld.ipmnet.ru/ru/library.htm
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Math.ru - библиотека
+  link: https://math.ru
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Техническая библиотека
+  link: http://techlibrary.ru
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Библиотека технической литературы
+  link: http://bamper.info
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title:
+  link:
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Технический портал радиолюбителей России
+  link: http://www.cqham.ru
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Академические собрания сочинений Пушкинского дома
+  link: https://russian-literature.org
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Электронная библиотека ИМЛИ РАН
+  link: http://biblio.imli.ru
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Журналы СССР
+  link: https://sites.google.com/site/zurnalysssr/home
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Театральная библиотека Сергеева
+  link: http://teatr-lib.ru/Library/
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
   platform_link:
