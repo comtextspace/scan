@@ -664,15 +664,6 @@
   platform: Форум
   platform_link:
 
-- title:
-  link:
-  category:
-  type: Всё
-  lang: RU
-  item_amount: "?"
-  platform: Форум
-  platform_link:
-
 - title: Технический портал радиолюбителей России
   link: http://www.cqham.ru
   category:
@@ -693,15 +684,6 @@
 
 - title: Электронная библиотека ИМЛИ РАН
   link: http://biblio.imli.ru
-  category:
-  type: Всё
-  lang: RU
-  item_amount: "?"
-  platform: Форум
-  platform_link:
-
-- title: Журналы СССР
-  link: https://sites.google.com/site/zurnalysssr/home
   category:
   type: Всё
   lang: RU
