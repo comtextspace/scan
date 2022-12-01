@@ -699,3 +699,39 @@
   item_amount: "?"
   platform: Форум
   platform_link:
+
+- title: Библиотека исторической информации
+  link: https://libinfo.org
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: The New York Public Library
+  link: http://digitalcollections.nypl.org
+  category:
+  type: Всё
+  lang: EN
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Old Book Illustrations
+  link: https://www.oldbookillustrations.com
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Древнерусские берестяные грамоты
+  link: http://gramoty.ru/birchbark/
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
