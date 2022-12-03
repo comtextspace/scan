@@ -735,3 +735,48 @@
   item_amount: "?"
   platform: Форум
   platform_link:
+
+- title: Library Genesis
+  link: https://libgen.is
+  category:
+  type: Всё
+  lang: RU, EN
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Техническая Библиотека
+  link: http://dmitriks.narod.ru/books/books.html
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Фундаментальная электронная библиотека «Флора и фауна»
+  link: http://herba.msu.ru/shipunov/school/sch-ru.htm
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Biodiversity Heritage Library
+  link: https://www.biodiversitylibrary.org
+  category: Международный проект по оцифровке естественнонаучной литературы находящейся в общественном достоянии.
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
+
+- title: Книги про авиацию
+  link: http://amyat.narod.ru/index.html
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: Форум
+  platform_link:
