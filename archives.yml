@@ -562,7 +562,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Национальная электронная детская библиотека
@@ -571,7 +571,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Электронная библиотека «Наука права»
@@ -580,7 +580,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Классика Российского права
@@ -589,7 +589,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Портал психологических изданий PsyJournals.ru
@@ -598,7 +598,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Socioline.ru
@@ -607,7 +607,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Педагогическая библиотека
@@ -616,7 +616,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Руниверс. Россия в подлиннике
@@ -625,7 +625,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Учебная физико-математическая библиотека
@@ -634,7 +634,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Math.ru - библиотека
@@ -643,7 +643,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Техническая библиотека
@@ -652,7 +652,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Библиотека технической литературы
@@ -661,7 +661,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Технический портал радиолюбителей России
@@ -670,7 +670,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Академические собрания сочинений Пушкинского дома
@@ -679,7 +679,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Электронная библиотека ИМЛИ РАН
@@ -688,7 +688,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Театральная библиотека Сергеева
@@ -697,7 +697,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Библиотека исторической информации
@@ -706,7 +706,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: The New York Public Library
@@ -715,7 +715,7 @@
   type: Всё
   lang: EN
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Old Book Illustrations
@@ -724,7 +724,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: "?"
   platform_link:
 
 - title: Древнерусские берестяные грамоты
@@ -733,7 +733,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: Отсуствуе
   platform_link:
 
 - title: Library Genesis
@@ -742,7 +742,7 @@
   type: Всё
   lang: RU, EN
   item_amount: "?"
-  platform: Форум
+  platform: Отсуствуе
   platform_link:
 
 - title: Техническая Библиотека
@@ -751,7 +751,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: Отсуствуе
   platform_link:
 
 - title: Фундаментальная электронная библиотека «Флора и фауна»
@@ -760,7 +760,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: Отсуствуе
   platform_link:
 
 - title: Biodiversity Heritage Library
@@ -769,7 +769,7 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: Отсуствуе
   platform_link:
 
 - title: Книги про авиацию
@@ -778,5 +778,50 @@
   type: Всё
   lang: RU
   item_amount: "?"
-  platform: Форум
+  platform: Отсуствуе
+  platform_link:
+
+- title: Старинные книги в PDF
+  link: https://vk.com/club183913088
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: VK
+  platform_link:
+
+- title: Internet Archive
+  link: https://archive.org
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: "?"
+  platform_link:
+
+- title: Rare Book Room
+  link: http://www.rarebookroom.org/indexA.html
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: "?"
+  platform_link:
+
+- title: Рукописные и старопечатные книги
+  link: http://nozdr.ru/biblio/history/old
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: "?"
+  platform_link:
+
+- title: Bibliotheca Palatina
+  link: https://digi.ub.uni-heidelberg.de/en/bpd/index.html
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: "?"
   platform_link:
