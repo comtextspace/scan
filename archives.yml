@@ -825,3 +825,39 @@
   item_amount: "?"
   platform: "?"
   platform_link:
+
+- title: Призыв к Разуму / Appeal to Reason
+  link: https://vk.com/appeal_to
+  category: Литаратура по марксизму
+  type: Книги
+  lang: RU
+  item_amount: "?"
+  platform: VK
+  platform_link:
+
+- title: Библиотека по марксизму
+  link: https://vk.com/club81495923
+  category: Литаратура по марксизму
+  type: Книги
+  lang: RU
+  item_amount: "?"
+  platform: VK
+  platform_link:
+
+- title: Знание — Сила. Советские книги для всех
+  link: https://vk.com/zsbooks
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: VK
+  platform_link:
+
+- title: Научно-атеистические книги (и др.)
+  link: https://vk.com/club61771654
+  category:
+  type: Всё
+  lang: RU
+  item_amount: "?"
+  platform: VK
+  platform_link:
