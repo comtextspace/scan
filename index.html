@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
+    <!-- Bootstrap 5 -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.0/css/bootstrap.min.css"
+    />
+
+    <!-- DataTables -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap5.min.css"
+    />
+    <script
+      type="text/javascript"
+      charset="utf8"
+      src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"
+    ></script>
+    <script
+      type="text/javascript"
+      charset="utf8"
+      src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap5.min.js"
+    ></script>
+
+    <script>
+      var __rm__config = {
+        projectId: "-NG6lZIY_qXqPQV8wFUT",
+        locale: "ru",
+        contextWidget: 1,
+        embedBtn: 0,
+        floatingBtn: 1,
+        floatingBtnPosition: "left",
+      };
+    </script>
+    <script
+      src="https://widget.revisionme.com/app.js"
+      defer
+      id="rm_app_script"
+    ></script>
+
+    <title>Каталог архивов сканов</title>
+  </head>
+  <body>
+    <h1 class="text-center mb-2">Каталог архивов сканов</h1>
+
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <p>
+            <a href="https://github.com/comtextspace/scan"
+              >Код проекта на GitHub</a
+            >. В репозитории есть
+            <a
+              href="https://github.com/comtextspace/scan/blob/main/archives.yml"
+              >исходные данные в yaml</a
+            >. Для обратной связи, пожалуйста, используйте
+            <a
+              href="https://discourse.comtext.space/t/katalog-arhivov-so-skanami/33/2"
+              >форум</a
+            >. Общая информация и результаты работы размещены на сайте <a
+              href="https://comtext.space"
+              >comtext.space</a
+            >.
+          </p>
+          <p>
+            Для сообщения об опечатке выделите текст и нажмите
+            <code>ctrl</code>+<code>Enter</code>
+            или кнопку в левом нижнем углу сайта.
+          </p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <table id="example" class="table table-striped" style="width: 100%">
+            <thead>
+              <tr>
+                <th>Название</th>
+                <th>Направление</th>
+                <th>Тип</th>
+                <th>Язык материалов</th>
+                <th>Количество материалов</th>
+                <th>Платформа</th>
+              </tr>
+            </thead>
+            <tfoot>
+              <tr>
+                <th>Название</th>
+                <th>Направление</th>
+                <th>Тип</th>
+                <th>Язык материалов</th>
+                <th>Количество материалов</th>
+                <th>Платформа</th>
+              </tr>
+            </tfoot>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      $(document).ready(function () {
+        $("#example").DataTable({
+          ajax: "./scans.json",
+          pageLength: 50,
+          language: {
+            url: "https://cdn.datatables.net/plug-ins/1.12.1/i18n/ru.json",
+          },
+        });
+      });
+    </script>
+  </body>
+</html>

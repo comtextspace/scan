@@ -1,0 +1,772 @@
+{
+    "data": [
+        [
+            "<a href=\"http://docs.historyrussia.org\">Электронная библиотека исторических документов Российского исторического общества</a>",
+            "Исторические документы",
+            "Документы",
+            "RU",
+            300000,
+            "<a href=\"https://way23.ru/textreview-inforost.html\">ИнфоРост</a>"
+        ],
+        [
+            "<a href=\"http://elib.shpl.ru\">Электронная библиотека Государственной публичной исторической библиотеки</a>",
+            "Всё",
+            "Книги, журналы, газеты, листовки",
+            "RU",
+            40000,
+            "<a href=\"https://way23.ru/textreview-inforost.html\">ИнфоРост</a>"
+        ],
+        [
+            "<a href=\"http://lib.sptl.spb.ru\">Электронная библиотека Театральной библиотеки (СПб)</a>",
+            "Театр",
+            "Книги, журналы, газеты, рукописи",
+            "RU",
+            1000,
+            "<a href=\"https://way23.ru/textreview-inforost.html\">ИнфоРост</a>"
+        ],
+        [
+            "<a href=\"http://zagorsk.dlibrary.org\">Электронные Архивы всемирно известных ученых-дефектологов</a>",
+            "Документы",
+            "Специальный",
+            "RU",
+            1000,
+            "<a href=\"https://way23.ru/textreview-inforost.html\">ИнфоРост</a>"
+        ],
+        [
+            "<a href=\"http://gpntb.dlibrary.org\">Электронный архив Государственной публичной научно-технической библиотеки</a>",
+            "Техническая литература",
+            "Книги",
+            "RU",
+            "2000-10000",
+            "<a href=\"https://way23.ru/textreview-inforost.html\">ИнфоРост</a>"
+        ],
+        [
+            "<a href=\"https://www.germandocsinrussia.org\">Российско-германский проект по оцифровке германских документов в архивах Российской Федерации</a>",
+            "Документы, карты",
+            "Специальный",
+            "DE",
+            1000,
+            "<a href=\"https://way23.ru/textreview-inforost.html\">ИнфоРост</a>"
+        ],
+        [
+            "<a href=\"http://murzilka.dlibrary.org\">Полный электронный комплект журнала Мурзилка</a>",
+            "Специальный",
+            "Журналы",
+            "RU",
+            1000,
+            "<a href=\"https://way23.ru/textreview-inforost.html\">ИнфоРост</a>"
+        ],
+        [
+            "<a href=\"http://letopisi.dlibrary.org\">Полная электронная коллекция Летописей Российской книжной палаты</a>",
+            "Специальный",
+            "Журналы",
+            "RU",
+            100,
+            "<a href=\"https://way23.ru/textreview-inforost.html\">ИнфоРост</a>"
+        ],
+        [
+            "<a href=\"http://biblioteka.domrz.ru\">Электронная библиотека Дома русского зарубежья им. Александра Солженицына</a>",
+            "Русская эмиграция XX века",
+            "Книги, газеты, журналы, автографы",
+            "RU",
+            "1000-5000",
+            "<a href=\"https://way23.ru/textreview-inforost.html\">ИнфоРост</a>"
+        ],
+        [
+            "<a href=\"https://rusneb.ru\">Национальная электронная библиотека (НЭБ)</a>",
+            "Всё",
+            "Книги, журналы",
+            "RU",
+            5500000,
+            "Своя"
+        ],
+        [
+            "<a href=\"https://elibrary.petrsu.ru\">Электронная библиотека Республики Карелия</a>",
+            "Всё",
+            "Книги, журналы",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"http://elibrary.rsl.ru\">Российская государственная библиотека</a>",
+            "Всё",
+            "Книги, журналы",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"http://biografia.ru\">Библиотека редких книг на сайте biografia.ru</a>",
+            "Всё",
+            "Книги",
+            "RU",
+            100,
+            "Отсуствует"
+        ],
+        [
+            "<a href=\"http://www.barius.ru/biblioteka/\">Сайт barius.ru</a>",
+            "Детская литература",
+            "Книги и журналы",
+            "RU",
+            1000,
+            "Своя?"
+        ],
+        [
+            "<a href=\"http://opoccuu.com/Yunyy-tehnik.htm\">Архив журнала Юный техник</a>",
+            "Журнал Юный техник",
+            "Журналы",
+            "RU",
+            100,
+            "Отсутствует"
+        ],
+        [
+            "<a href=\"https://www.zr.ru/archive/zr/\">Архив журнала За рулем</a>",
+            "Журнал За рулем",
+            "Журналы",
+            "RU",
+            100,
+            "Отсутствует"
+        ],
+        [
+            "<a href=\"http://www.mk-archive.narod.ru/mk-year.htm\">Архив журнала Моделист конструктор</a>",
+            "Журнал Моделист-конструктор",
+            "Журналы",
+            "RU",
+            375,
+            "Отсутствует"
+        ],
+        [
+            "<a href=\"https://sites.google.com/site/zurnalysssr/\">Журналы СССР</a>",
+            "Журналы СССР",
+            "Журналы",
+            "RU",
+            "?",
+            "Отсутствует"
+        ],
+        [
+            "<a href=\"http://journal-club.ru\">Сайт journal-club.ru</a>",
+            "Журналы",
+            "Журналы",
+            "RU",
+            "?",
+            "Отсутствует"
+        ],
+        [
+            "<a href=\"https://www.oldgazette.org\">Старые газеты</a>",
+            "Газеты",
+            "Газеты",
+            "RU",
+            5000,
+            "Отсутствует"
+        ],
+        [
+            "<a href=\"https://satmaps.info/genshtab.php\">Карты генштаба</a>",
+            "Карты генштаба",
+            "Карты",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"http://retromap.ru\">Старые карты</a>",
+            "Старые карты",
+            "Карты",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"https://disk.yandex.ru/d/PhzsG_3mZ-SI8Q\">Архив журнала Семья и школа 1946-2002</a>",
+            "Журнал Семья и школа",
+            "Журналы",
+            "RU",
+            "?",
+            "Яндекс-диск"
+        ],
+        [
+            "<a href=\"http://elib.ngonb.ru/jspui/community-list\">Библиотека Электронная Сибирь</a>",
+            "Связанное с сибирью",
+            "Книги, журналы",
+            "RU",
+            "?",
+            "DSpace"
+        ],
+        [
+            "<a href=\"https://imwerden.de/razdel-11-str-1.html\">«ImWerden», электронная библиотека Андрея Никитина-Перенского</a>",
+            "Всё",
+            "Книги, журналы",
+            "RU",
+            12908,
+            "Отсуствует"
+        ],
+        [
+            "<a href=\"https://i.irklib.ru/web/\">Иркутская областная государственная универсальная научная библиотека им. И. И, Молчанова-Сибирского</a>",
+            "Всё",
+            "Книги, журналы",
+            "RU",
+            "?",
+            "Отсуствует"
+        ],
+        [
+            "<a href=\"https://librarium.fr/ru/magazines\">librarium, Либрариум — это архив эмигрантской прессы</a>",
+            "Всё",
+            "Газеты, журналы",
+            "RU",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://anno.onb.ac.at\">Austrian Newspapers Online</a>",
+            "Австрийские газеты (более 100 наименований)",
+            "Газеты",
+            "DE",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://zefys.staatsbibliothek-berlin.de\">Historische Zeitungen online (Staatsbibliothek zu Berlin)</a>",
+            "Раритетные немецкие газеты (более 70 наименований)",
+            "Газеты",
+            "DE",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://sammlungen.ub.uni-frankfurt.de/cm/nav/index/title/\">Jüdische Periodika</a>",
+            "Еврейские газеты Германии и Австрии(более 100 наименований)",
+            "Газеты",
+            "DE, RU",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://digipress-beta.digitale-sammlungen.de/de/fs1/papers-overview/static.html\">digiPress</a>",
+            "Редкие немецкие газеты (коллекция баварской госуд. библиотеки)",
+            "Газеты",
+            "DE",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://trove.nla.gov.au/newspaper/\">Historic Australian Newspapers</a>",
+            "Австралийские газеты (около 40 наименований)",
+            "Газеты",
+            "EN",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://paperspast.natlib.govt.nz\">Paperspast</a>",
+            "Новозеландские газеты (более 50 наименований)",
+            "Газеты",
+            "EN",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://chroniclingamerica.loc.gov\">Chronicling America: Historic American Newspapers</a>",
+            "Американские газеты (около 200 наименований)",
+            "Газеты",
+            "EN",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://www.nli.org.il/en/newspapers/titles\">Palestine Post</a>",
+            "Иерусалимская газета",
+            "Газеты",
+            "EN",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://timarit.is/titles\">Tímarit.is</a>",
+            "Исландские, фарерские и гренландские газеты",
+            "Газеты",
+            "?",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://svoboda-news.com/svwp/pdfархів/\">Свобода</a>",
+            "Американская украинская газета",
+            "Газеты",
+            "UA",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://nauka1941-1945.ru\">Наука в СССР в годы Великой Отечественной Войны</a>",
+            "Естественные науки",
+            "Книги",
+            "RU",
+            "?",
+            "Отсуствует"
+        ],
+        [
+            "<a href=\"http://www.e-heritage.ru\">Электронная библиотека \"Научное наследие России\"</a>",
+            "Естественные науки",
+            "Книги, фотографии",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"https://belbook.nlb.by\">Книга Беларуси ХIV - XVIII веков</a>",
+            "Старые книги",
+            "Книги",
+            "BE",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"https://lib-fond.ru\">Собрание рукописей и старопечатных кни</a>",
+            null,
+            "Книги, рукописи",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"http://rgada.info/kueh/index.php?T1=&Sk=30&B1=Найти\">Российский государственный архив древних актов (РГАДА)</a>",
+            null,
+            "Книги",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"https://catalog.shm.ru/entity/OBJECT\">Государственный исторический музей (ГИМ)</a>",
+            null,
+            "Книги",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"http://lib.pushkinskijdom.ru\">Электронные публикации Института русской литературы (Пушкинского Дома) РАН</a>",
+            null,
+            "Книги, газеты",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"http://psrl.csu.ru\">Полное собрание русских летописей</a>",
+            null,
+            "Книги, рукописи",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"http://bibliophika.ru\">Bibliophika</a>",
+            null,
+            "Книги",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"https://perm-book.ru\">Пермский книгоед</a>",
+            null,
+            "Книги",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"http://book-olds.ru\">Онлайн библиотека Царское село</a>",
+            null,
+            "Книги",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"http://publ.lib.ru/cgi/forum/YaBB.pl\">OCR форум (publ.lib.ru)</a>",
+            "Всё",
+            null,
+            "RU",
+            "?",
+            "Форум"
+        ],
+        [
+            "<a href=\"http://elib.biblioatom.ru\">Электронная библиотека «История Росатома»</a>",
+            "История ядерной индустрии",
+            "Книги",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"https://znanie-vlast.livejournal.com\">Блог «Knowledge is power»</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "Livejournal"
+        ],
+        [
+            "<a href=\"https://soviet-books.livejournal.com\">Советские книги</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "Livejournal"
+        ],
+        [
+            "<a href=\"https://retrolib.pdp-11.ru\">Старая техническая литература</a>",
+            "Техническая литератуа",
+            "Книги",
+            "RU",
+            "?",
+            "Отсуствует"
+        ],
+        [
+            "<a href=\"http://farposst.ru/index.php\">Farposst</a>",
+            "Военная тематика",
+            "Книги, журналы",
+            "EN",
+            "?",
+            "Отсутствует"
+        ],
+        [
+            "<a href=\"https://ekb.aonb.ru\">Электронная краеведческая библиотека Русский север</a>",
+            "Тематическая",
+            "Книги, газеты, журналы, карты",
+            "RU",
+            "?",
+            "Своя?"
+        ],
+        [
+            "<a href=\"https://www.prlib.ru\">Президентская библиотека имени Б. Н. Ельцина</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"https://booktracker.org\">Книжный трекер</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "Torrent-трекер"
+        ],
+        [
+            "<a href=\"https://rutracker.org/forum/index.php?c=25\">Раздел Книги и журналы на rutracker.org</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "Torrent-трекер"
+        ],
+        [
+            "<a href=\"https://www.loc.gov\">Library of congress</a>",
+            null,
+            "Всё",
+            "EN",
+            "?",
+            "Своя"
+        ],
+        [
+            "<a href=\"http://forum.ru-board.com/forum.cgi?forum=93\">Раздел eBookz на форуме orum.ru-board.com</a>",
+            null,
+            "Всё",
+            "RU, EN",
+            "?",
+            "Форум"
+        ],
+        [
+            "<a href=\"https://www.europeana.eu/en\">EUROPEANA. Европейская цифровая библиотека</a>",
+            null,
+            "Всё",
+            "EN, другие",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://nlr.ru/elibrary\">Электронная библиотека Российской национальной библиотеки (РНБ)</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://ellib.gpntb.ru\">Электронная библиотека ГПНТБ России</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://arch.rgdb.ru/xmlui/\">Национальная электронная детская библиотека</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://naukaprava.ru\">Электронная библиотека «Наука права»</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://civil.consultant.ru\">Классика Российского права</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://psyjournals.ru\">Портал психологических изданий PsyJournals.ru</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://socioline.ru\">Socioline.ru</a>",
+            "Литература по социологии",
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://pedlib.ru\">Педагогическая библиотека</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://runivers.ru\">Руниверс. Россия в подлиннике</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://eqworld.ipmnet.ru/ru/library.htm\">Учебная физико-математическая библиотека</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://math.ru\">Math.ru - библиотека</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://techlibrary.ru\">Техническая библиотека</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://bamper.info\">Библиотека технической литературы</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://www.cqham.ru\">Технический портал радиолюбителей России</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://russian-literature.org\">Академические собрания сочинений Пушкинского дома</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://biblio.imli.ru\">Электронная библиотека ИМЛИ РАН</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://teatr-lib.ru/Library/\">Театральная библиотека Сергеева</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://libinfo.org\">Библиотека исторической информации</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://digitalcollections.nypl.org\">The New York Public Library</a>",
+            null,
+            "Всё",
+            "EN",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://www.oldbookillustrations.com\">Old Book Illustrations</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://gramoty.ru/birchbark/\">Древнерусские берестяные грамоты</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "Отсуствуе"
+        ],
+        [
+            "<a href=\"https://libgen.is\">Library Genesis</a>",
+            null,
+            "Всё",
+            "RU, EN",
+            "?",
+            "Отсуствуе"
+        ],
+        [
+            "<a href=\"http://dmitriks.narod.ru/books/books.html\">Техническая Библиотека</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "Отсуствуе"
+        ],
+        [
+            "<a href=\"http://herba.msu.ru/shipunov/school/sch-ru.htm\">Фундаментальная электронная библиотека «Флора и фауна»</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "Отсуствуе"
+        ],
+        [
+            "<a href=\"https://www.biodiversitylibrary.org\">Biodiversity Heritage Library</a>",
+            "Международный проект по оцифровке естественнонаучной литературы находящейся в общественном достоянии.",
+            "Всё",
+            "RU",
+            "?",
+            "Отсуствуе"
+        ],
+        [
+            "<a href=\"http://amyat.narod.ru/index.html\">Книги про авиацию</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "Отсуствуе"
+        ],
+        [
+            "<a href=\"https://vk.com/club183913088\">Старинные книги в PDF</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "VK"
+        ],
+        [
+            "<a href=\"https://archive.org\">Internet Archive</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://www.rarebookroom.org/indexA.html\">Rare Book Room</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"http://nozdr.ru/biblio/history/old\">Рукописные и старопечатные книги</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://digi.ub.uni-heidelberg.de/en/bpd/index.html\">Bibliotheca Palatina</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "?"
+        ],
+        [
+            "<a href=\"https://vk.com/appeal_to\">Призыв к Разуму / Appeal to Reason</a>",
+            "Литаратура по марксизму",
+            "Книги",
+            "RU",
+            "?",
+            "VK"
+        ],
+        [
+            "<a href=\"https://vk.com/club81495923\">Библиотека по марксизму</a>",
+            "Литаратура по марксизму",
+            "Книги",
+            "RU",
+            "?",
+            "VK"
+        ],
+        [
+            "<a href=\"https://vk.com/zsbooks\">Знание — Сила. Советские книги для всех</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "VK"
+        ],
+        [
+            "<a href=\"https://vk.com/club61771654\">Научно-атеистические книги (и др.)</a>",
+            null,
+            "Всё",
+            "RU",
+            "?",
+            "VK"
+        ]
+    ]
+}
